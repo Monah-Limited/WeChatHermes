@@ -161,6 +161,22 @@ Day 1: [SmartClipAI](https://github.com/Monah-Limited/SmartClipAI) — AI 剪贴
 
 ---
 
+## 🙏 Credits / 致谢
+
+This project builds on these open-source projects:
+
+| Project | What it does |
+|---------|-------------|
+| [**Hermes Agent**](https://github.com/nousresearch/hermes-agent) | AI agent framework that powers the brain |
+| [**WeChat iLink**](https://github.com/iuiaoin/wechat- ilink) | WeChat bridge / protocol gateway |
+| [**ItChat**](https://github.com/littlecodersh/ItChat) | WeChat personal account API (inspiration) |
+| [**itchat-uos**](https://github.com/why2lyj/itchat-uos) | UOS-compatible ItChat fork |
+| [**OpenClaw**](https://github.com/Monah-Limited) | Monah's AI orchestration layer |
+
+**Special thanks** to the Hermes Agent team at [Nous Research](https://nousresearch.com) for building the agent runtime that makes this integration possible.
+
+---
+
 ## 📄 许可证 / License
 
 MIT
