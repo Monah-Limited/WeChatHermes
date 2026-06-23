@@ -1,4 +1,8 @@
 
+<p align="center">
+  <b>🌐 <a href="#-中文-1">中文</a> · <a href="#-english">English</a></b>
+</p>
+
 <h1 align="center">WeChatHermes 🤖💬</h1>
 
 <p align="center">
@@ -174,6 +178,33 @@ This project builds on these open-source projects:
 | [**OpenClaw**](https://github.com/Monah-Limited) | Monah's AI orchestration layer |
 
 **Special thanks** to the Hermes Agent team at [Nous Research](https://nousresearch.com) for building the agent runtime that makes this integration possible.
+
+---
+
+## 🇨🇳 中文
+
+<p align="center">
+  <b><a href="#-english">← English</a> · 中文</b>
+</p>
+
+**WeChatHermes 🤖💬** — 一键在微信中和 Hermes AI Agent 对话。
+
+### 一键安装
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Monah-Limited/WeChatHermes/main/install.sh | bash
+```
+
+### 功能
+
+- 💬 在微信中直接和 AI 对话
+- 🤖 支持 Hermes Agent 全部能力
+- 🔧 一键安装，无需配置
+- 🔒 消息加密传输
+
+### 致谢
+
+感谢 [Nous Research](https://nousresearch.com) 的 Hermes Agent、[WeChat iLink](https://github.com/iuiaoin/wechat-ilink) 和 [ItChat](https://github.com/littlecodersh/ItChat) 项目。
 
 ---
 
