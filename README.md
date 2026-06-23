@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#-one-click-install--一键安装"><img src="https://img.shields.io/badge/🚀_一键安装-One_Command-blue?style=for-the-badge" alt="One Click Install"></a>
-  <a href="https://github.com/Monah-Limited/WeChatHermes/stargazers"><img src="https://img.shields.io/github/stars/Monah-Limited/WeChatHermes?style=for-the-badge&logo=github" alt="Stars"></a>
+  <a href="https://github.com/monah-studio/WeChatHermes/stargazers"><img src="https://img.shields.io/github/stars/monah-studio/WeChatHermes?style=for-the-badge&logo=github" alt="Stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT"></a>
   <br>
   <img src="https://img.shields.io/badge/macOS-✓-blue?logo=apple" alt="macOS">
@@ -49,7 +49,7 @@ Bot: def fibonacci(n):
 **English:** Open your terminal, paste this command, hit Enter:
 
 ```bash
-curl -sfL https://raw.githubusercontent.com/Monah-Limited/WeChatHermes/main/install.sh | sh
+curl -sfL https://raw.githubusercontent.com/monah-studio/WeChatHermes/main/install.sh | sh
 ```
 
 **安装过程：** 约 1-3 分钟，全程自动化
@@ -148,7 +148,7 @@ rm -rf ~/.hermes ~/.hermes-wechathermes
 
 这是 **30 Apps in 100 Days** 挑战的 Day 2 作品。
 
-Day 1: [SmartClipAI](https://github.com/Monah-Limited/SmartClipAI) — AI 剪贴板助手
+Day 1: [SmartClipAI](https://github.com/monah-studio/SmartClipAI) — AI 剪贴板助手
 
 ---
 
@@ -175,7 +175,7 @@ This project builds on these open-source projects:
 | [**WeChat iLink**](https://github.com/iuiaoin/wechat- ilink) | WeChat bridge / protocol gateway |
 | [**ItChat**](https://github.com/littlecodersh/ItChat) | WeChat personal account API (inspiration) |
 | [**itchat-uos**](https://github.com/why2lyj/itchat-uos) | UOS-compatible ItChat fork |
-| [**OpenClaw**](https://github.com/Monah-Limited) | Monah's AI orchestration layer |
+| [**OpenClaw**](https://github.com/monah-studio) | Monah's AI orchestration layer |
 
 **Special thanks** to the Hermes Agent team at [Nous Research](https://nousresearch.com) for building the agent runtime that makes this integration possible.
 
@@ -192,7 +192,7 @@ This project builds on these open-source projects:
 ### 一键安装
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Monah-Limited/WeChatHermes/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/monah-studio/WeChatHermes/main/install.sh | bash
 ```
 
 ### 功能

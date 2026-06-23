@@ -5,12 +5,12 @@
 # Talk to AI from WeChat. One command, done.
 #
 # Usage:
-#   curl -sfL https://raw.githubusercontent.com/Monah-Limited/WeChatHermes/main/install.sh | sh
+#   curl -sfL https://raw.githubusercontent.com/monah-studio/WeChatHermes/main/install.sh | sh
 # ============================================================================
 
 set -euo pipefail
 
-REPO="Monah-Limited/WeChatHermes"
+REPO="monah-studio/WeChatHermes"
 HERMES_VENV="$HOME/.hermes-wechathermes/venv"
 HERMES_CONFIG="$HOME/.hermes"
 
