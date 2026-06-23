@@ -3,10 +3,10 @@
   <b>🌐 <a href="#-中文-1">中文</a> · <a href="#-english">English</a></b>
 </p>
 
-<h1 align="center">WeChatHermes 🤖💬</h1>
+<h1 align="center">WeChat Connect Hermes Agent 🤖💬</h1>
 
 <p align="center">
-  <b>Talk to AI from WeChat. One command, done.</b><br>
+  <b>Talk to Hermes Agent from WeChat. One command, done.</b><br>
   <b>一键安装 Hermes AI Agent，在微信中和 AI 对话。</b>
 </p>
 
@@ -187,7 +187,7 @@ This project builds on these open-source projects:
   <b><a href="#-english">← English</a> · 中文</b>
 </p>
 
-**WeChatHermes 🤖💬** — 一键在微信中和 Hermes AI Agent 对话。
+**WeChat Connect Hermes Agent 🤖💬** — 一键在微信中和 Hermes AI Agent 对话。
 
 ### 一键安装
 
