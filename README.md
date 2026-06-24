@@ -172,7 +172,7 @@ This project builds on these open-source projects:
 | Project | What it does |
 |---------|-------------|
 | [**Hermes Agent**](https://github.com/nousresearch/hermes-agent) | AI agent framework that powers the brain |
-| [**WeChat iLink**](https://github.com/iuiaoin/wechat- ilink) | WeChat bridge / protocol gateway |
+| [**WeChat iLink**](https://github.com/iuiaoin/wechat-ilink) | WeChat bridge / protocol gateway |
 | [**ItChat**](https://github.com/littlecodersh/ItChat) | WeChat personal account API (inspiration) |
 | [**itchat-uos**](https://github.com/why2lyj/itchat-uos) | UOS-compatible ItChat fork |
 | [**OpenClaw**](https://github.com/monah-studio) | Monah's AI orchestration layer |
@@ -204,7 +204,17 @@ curl -fsSL https://raw.githubusercontent.com/monah-studio/WeChatHermes/main/inst
 
 ### 致谢
 
-感谢 [Nous Research](https://nousresearch.com) 的 Hermes Agent、[WeChat iLink](https://github.com/iuiaoin/wechat-ilink) 和 [ItChat](https://github.com/littlecodersh/ItChat) 项目。
+本项目基于以下开源项目构建：
+
+| 项目 | 功能描述 |
+|------|---------|
+| [**Hermes Agent**](https://github.com/nousresearch/hermes-agent) | AI 智能体框架，项目的大脑 |
+| [**WeChat iLink**](https://github.com/iuiaoin/wechat-ilink) | 微信桥接 / 协议网关 |
+| [**ItChat**](https://github.com/littlecodersh/ItChat) | 微信个人号 API（灵感来源） |
+| [**itchat-uos**](https://github.com/why2lyj/itchat-uos) | 兼容 UOS 的 ItChat 分支 |
+| [**OpenClaw**](https://github.com/monah-studio) | Monah 的 AI 编排层 |
+
+**特别感谢** [Nous Research](https://nousresearch.com) 的 Hermes Agent 团队构建了使此集成成为可能的智能体运行环境。
 
 ---
 
